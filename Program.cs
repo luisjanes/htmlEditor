@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel.Design;
 
 namespace htmlEditor
 {
@@ -7,7 +8,6 @@ namespace htmlEditor
         static void Main(string[] args)
         {
             Menu.Show();
-
         }
     }
 }
